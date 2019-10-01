@@ -1,0 +1,20 @@
+/* by Zackary Klebanoff on 10/1/2019 */
+
+#ABC{
+  text-align: center;
+  margin: auto;
+}
+
+table{
+  text-align: center;
+  margin: auto;
+}
+
+td{
+  border: 3px solid black;
+  width:50px;
+  height:50px;
+  font-size: 25px;
+  border-radius: 100%;
+  background-color: grey;
+}

@@ -1,0 +1,13 @@
+/* Made by Zackary Klebanoff */
+
+td{
+  border: 3px solid black;
+  width:100px;
+  height:100px;
+  font-size: 50px;
+}
+
+table{
+  text-align: center;
+  margin: auto;
+}
